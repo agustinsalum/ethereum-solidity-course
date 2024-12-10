@@ -1,0 +1,5 @@
+
+Programa en Solidity que simula un Trello donde puedes agregar tareas, actualizar su estado y recuperar
+la primera tarea en estado pendiente. Puede ampliarse para recuperar todas las tareas, eliminar la
+última o incluso una del medio (reorganizando las restantes después).
+También puede optimizar el uso de gas mediante el uso de *mapping*.
